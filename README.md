@@ -44,4 +44,4 @@ As soon as this work is published, we will share the remaining csv files.
 
 ## How to run
 
-Please open the file calculate_p_values_and_plots.py and change the line base_dir to your own repository, in case all the files are in the same folder (e.g., if you clone this rep) put '' in the field.
+Please open the file calculate_p_values_and_plots.py and change the line base_dir to your own repository, in case all the files are in the same folder (e.g., if you clone this repo) put '' in the field.
