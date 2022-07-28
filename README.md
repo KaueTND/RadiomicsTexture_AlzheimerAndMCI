@@ -3,7 +3,7 @@ The use of 3D radiomics features used to study the differences among Healthy Nor
 
 Four types of texture descriptors are used in this work: Gray-Level Co-Occurrence Matrix (GLCM), Gray-level Run Length Matrix (GLRLM), Gray-level Size Zone Matrix (GLSZM), Neighbouring Gray Tone Difference Matrix (NGTDM).
 
-We perform pairwise comparisons between stages, thus generating the following scenarios: HN \textit{vs} MCI, HN \textit{vs} AD, and MCI \textit{vs} AD.
+We perform pairwise comparisons between stages, thus generating the following scenarios: HN *vs* MCI, HN *vs* AD, and MCI *vs* AD.
 
 In this preliminary repository, the code is disclosed to the scientific community to promote reproducibility, but the matrices used to perform the analysis will be hold until the referred paper is published. 
 
